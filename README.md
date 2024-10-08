@@ -1,9 +1,9 @@
 [![sel-ouaf's 42 stats](https://badge.mediaplus.ma/colorfulwaves/sel-ouaf)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm Soufian EL OUAFQAOUI</h1>
-<h3 align="center">A passionate software developer from Morocco</h3>
+<h3 align="center">A passionate Full-Stack developer from Morocco</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **soufianeelouafqaoui@gmail.com**
+- 📫 How to reach me <strong>soufianeelouafqaoui@gmail.com</strong>
 
 <p align="left">
 </p>
